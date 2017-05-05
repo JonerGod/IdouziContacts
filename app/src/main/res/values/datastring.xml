@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_data">
+        <item>张三</item>
+        <item>李四</item>
+        <item>王五</item>
+        <item>刘六</item>
+        <item>胡然</item>
+        <item>陈友谅</item>
+        <item>杨过</item>
+        <item>周芷若</item>
+        <item>无名</item>
+        <item>武则天</item>
+        <item>李自成</item>
+        <item>百晓生</item>
+        <item>白浩</item>
+        <item>刘兴</item>
+        <item>秦奋</item>
+        <item>强子</item>
+        <item>郭沫若</item>
+        <item>过儿</item>
+        <item>张三丰</item>
+        <item>陆小凤</item>
+        <item>韶华</item>
+        <item>苏轼</item>
+        <item>伍子胥</item>
+        <item>刘倩</item>
+        <item>肖国栋</item>
+        <item>西门吹雪</item>
+        <item>欧阳不急</item>
+        <item>欧弟</item>
+        <item>汪涵</item>
+        <item>乔杉</item>
+        <item>邱少云</item>
+        <item>柏实</item>
+        <item>朱彩霞</item>
+        <item>猪八戒</item>
+        <item>孙悟空</item>
+        <item>alice</item>
+        <item>#d</item>
+        <item>**</item>
+        <item>( ⊙ o ⊙ )是的</item>
+        <item>&#160;韩寒</item>
+
+    </string-array>
+</resources>
